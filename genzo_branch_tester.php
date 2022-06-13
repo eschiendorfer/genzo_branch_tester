@@ -17,7 +17,7 @@ class Genzo_Branch_Tester extends Module
 	function __construct() {
 		$this->name = 'genzo_branch_tester';
 		$this->tab = 'front_office_features';
-		$this->version = '1.0.0';
+		$this->version = '1.1.0';
 		$this->author = 'Emanuel Schiendorfer';
 		$this->need_instance = 0;
 
